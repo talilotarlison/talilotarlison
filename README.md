@@ -10,4 +10,8 @@
 - 💬 Pergunte-me sobre ...
 - 📫 Como entrar em contato comigo=> Email: ttarlison@gmail.com
 
-- ⚡ Curiosidade:> Gosto de técnologia e dedico uma boa parte do meu tempo estudando técnologia de progamacao.
+- ⚡ Curiosidade:> Gosto de técnologia e dedico uma boa parte do meu tempo estudando técnologia de programação.
+
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
