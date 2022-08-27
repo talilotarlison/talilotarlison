@@ -4,8 +4,8 @@
 ### My name is Talilo Tarlison and my nickname is "Talilo"!!
 
 ### Estou aprendendo
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,jquery,react,angular,vue,)](https://skillicons.dev)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 ### Contatos:
 
 <div>
@@ -17,18 +17,17 @@
 <a href="https://www.github.com"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
-- 🔭 Atualmente não estou trabalhando na área, apenas me esforçar e estudando bastante.
-- 🌱 Atualmente estou aprendendo => [ HTML, CSS, JS, React.js, Angula, Bootstrap, Vue.js]
-- 👯 Estou procurando colaborar em .
+- 🔭 Atualmente não estou trabalhando na área, apenas me esforçando e estudando bastante.
+- 🌱 Atualmente estou aprendendo -> [ HTML, CSS, JS, React.js, Angula, Bootstrap, Vue.js]
+- 👯 Estou procurando colaborar em ...
 - 🤔 Estou procurando ajuda com ...
 - 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo=> Email: ttarlison@gmail.com
+- 📫 Como entrar em contato comigo -> Email: ttarlison@gmail.com
 
-- ⚡ Curiosidade:> Gosto de técnologia e dedico uma boa parte do meu tempo estudando técnologia de programação.
+- ⚡ Curiosidade:> Gosto de técnologia e dedico uma boa parte do meu tempo estudando técnologias de programação.
 
 ### Ferramentas e Tecnologias
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=github,linux,git,codepen,discord,figma,netlify)](https://skillicons.dev)
 
 ## Estatística do meu Github
 <div>
