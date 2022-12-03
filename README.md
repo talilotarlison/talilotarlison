@@ -3,10 +3,10 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is *Talilo Tarlison* and my nickname is *"Talilo"*!!
 ![Capa](https://codinginfinite.com/wp-content/uploads/2018/12/0KXuX_V54FKpK-wsX.gif)
-### Estou aprendendo:
+### Estou aprendendo
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,jquery,react,angular,vue,)](https://skillicons.dev)
 
-### Contatos:
+### Contatos
 
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
