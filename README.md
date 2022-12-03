@@ -18,7 +18,7 @@
 </div>
 
 - 🎯 Atualmente não estou trabalhando na área, apenas me esforçando e estudando bastante.
-- 💻 Atualmente estou aprendendo -> [ HTML, CSS, JS, React.js, Angula, Bootstrap, Vue.js]
+- 💻 Atualmente estou aprendendo -> **[ HTML, CSS, JS, React.js, Angula, Bootstrap, Vue.js]**
 - 🤖 Meus projetos no CODEPEN -> https://codepen.io/talilo-tarlison
 - 💬 Pergunte-me sobre algo -> https://linktr.ee/talilo.tarlison
 - 📫 Como entrar em contato comigo -> Email: ttarlison@gmail.com
