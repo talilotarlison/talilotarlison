@@ -3,7 +3,7 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Talilo Tarlison and my nickname is "Talilo"!!
 
-### Estou aprendendo
+### Estou aprendendo:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,jquery,react,angular,vue,)](https://skillicons.dev)
 
 ### Contatos:
@@ -20,7 +20,6 @@
 - 🔭 Atualmente não estou trabalhando na área, apenas me esforçando e estudando bastante.
 - 🌱 Atualmente estou aprendendo -> [ HTML, CSS, JS, React.js, Angula, Bootstrap, Vue.js]
 - 🤖 Meus projetos no CODEPEN -> https://codepen.io/talilo-tarlison
-- 🤔 Estou procurando ajuda com ...
 - 💬 Pergunte-me sobre algo -> https://linktr.ee/talilo.tarlison
 - 📫 Como entrar em contato comigo -> Email: ttarlison@gmail.com
 
