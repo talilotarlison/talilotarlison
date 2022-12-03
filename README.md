@@ -19,11 +19,11 @@
 
 - 🎯 Atualmente não estou trabalhando na área, apenas me esforçando e estudando bastante.
 - 💻 Atualmente estou aprendendo -> **[ HTML, CSS, JS, React.js, Angula, Bootstrap, Vue.js]**
-- 🤖 Meus projetos no CODEPEN -> https://codepen.io/talilo-tarlison
+- 🤖 Meus projetos no **CODEPEN** -> https://codepen.io/talilo-tarlison
 - 💬 Pergunte-me sobre algo -> https://linktr.ee/talilo.tarlison
 - 📫 Como entrar em contato comigo -> Email: ttarlison@gmail.com
 
-- ⚡ Curiosidade-> Gosto de técnologia e dedico uma boa parte do meu tempo estudando técnologias de programação.
+- ⚡ Curiosidade -> Gosto de técnologia e dedico uma boa parte do meu tempo estudando técnologias de programação.
 
 ### Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=github,linux,git,codepen,discord,figma,netlify)](https://skillicons.dev)
