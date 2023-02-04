@@ -2,7 +2,7 @@
 
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is *Talilo Tarlison* and my nickname is *"Talilo"*!!
-![Capa](https://technical.ly/wp-content/uploads/2017/09/getcode.gif)
+![Capa](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)
 ### Estou aprendendo
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,jquery,react,angular,vue,)](https://skillicons.dev)
 
