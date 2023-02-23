@@ -21,7 +21,7 @@
 - 💻 Atualmente estou aprendendo -> **[ HTML, CSS, JS, React.js, Angula, Bootstrap, Vue.js]**
 - 🤖 Meus projetos no **CODEPEN** -> https://codepen.io/talilo-tarlison
 - 💬 Pergunte-me sobre algo -> https://linktr.ee/talilo.tarlison
-- 📫 Como entrar em contato comigo -> Email: ttarlison@gmail.com
+- 📫 Como entrar em contato comigo -> Email: email@email.com
 
 - ⚡ Curiosidade -> Gosto de técnologia e dedico uma boa parte do meu tempo estudando técnologias de programação.
 
