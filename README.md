@@ -6,7 +6,7 @@
 ### My name is *Talilo Tarlison* and my nickname is *"Talilo"*!!
 
  <img
-src="https://www.meshdex.com/wp-content/uploads/2018/07/web.gif">
+src="https://www.lwtsistemas.com.br/wp-content/uploads/2019/08/programa%C3%A7%C3%A3o.png.png">
    
 ### Estou aprendendo
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,jquery,react,angular,vue,)](https://skillicons.dev)
