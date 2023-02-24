@@ -23,8 +23,8 @@ src="https://www.lwtsistemas.com.br/wp-content/uploads/2019/08/programa%C3%A7%C3
 </div>
  
 <p> 🎯 Atualmente não estou trabalhando na área, apenas me esforçando e estudando bastante.</p> 
-<p> 💻 Atualmente estou aprendendo -> **[ HTML, CSS, JS, React.js, Angula, Bootstrap, Vue.js]**</p> 
-<p>  🤖 Meus projetos no **CODEPEN** -> https://codepen.io/talilo-tarlison</p> 
+<p> 💻 Atualmente estou aprendendo -> <b>[ HTML, CSS, JS, React.js, Angula, Bootstrap, Vue.js]</b></p> 
+<p>  🤖 Meus projetos no <b>CODEPEN</b> -> https://codepen.io/talilo-tarlison</p> 
 <p> 💬 Pergunte-me sobre algo -> https://linktr.ee/talilo.tarlison</p> 
 <p> 📫 Como entrar em contato comigo -> Email: email@email.com</p> 
 
