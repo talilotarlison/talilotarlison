@@ -1,11 +1,10 @@
-<div align="center">
-  
+<div align="center"> 
 ### Hi there.👋
 
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is *Talilo Tarlison* and my nickname is *"Talilo"*!!
 
- <img style="border-radius: 90%;"
+ <img style="border-radius: 10px"
 src="https://www.meshdex.com/wp-content/uploads/2018/07/web.gif">
    
 ### Estou aprendendo
