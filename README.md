@@ -22,13 +22,13 @@ src="https://www.meshdex.com/wp-content/uploads/2018/07/web.gif">
 <a href="https://www.github.com"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
-- 🎯 Atualmente não estou trabalhando na área, apenas me esforçando e estudando bastante.
-- 💻 Atualmente estou aprendendo -> **[ HTML, CSS, JS, React.js, Angula, Bootstrap, Vue.js]**
-- 🤖 Meus projetos no **CODEPEN** -> https://codepen.io/talilo-tarlison
-- 💬 Pergunte-me sobre algo -> https://linktr.ee/talilo.tarlison
-- 📫 Como entrar em contato comigo -> Email: email@email.com
+ 🎯 Atualmente não estou trabalhando na área, apenas me esforçando e estudando bastante.
+ 💻 Atualmente estou aprendendo -> **[ HTML, CSS, JS, React.js, Angula, Bootstrap, Vue.js]**
+ 🤖 Meus projetos no **CODEPEN** -> https://codepen.io/talilo-tarlison
+ 💬 Pergunte-me sobre algo -> https://linktr.ee/talilo.tarlison
+ 📫 Como entrar em contato comigo -> Email: email@email.com
 
-- ⚡ Curiosidade -> Gosto de técnologia e dedico uma boa parte do meu tempo estudando técnologias de programação.
+ ⚡ Curiosidade -> Gosto de técnologia e dedico uma boa parte do meu tempo estudando técnologias de programação.
 
 ### Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=github,linux,git,codepen,discord,figma,netlify)](https://skillicons.dev)
