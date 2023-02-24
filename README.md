@@ -22,6 +22,7 @@ src="https://www.meshdex.com/wp-content/uploads/2018/07/web.gif">
 <a href="https://www.github.com"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
+ 
 <p> 🎯 Atualmente não estou trabalhando na área, apenas me esforçando e estudando bastante.</p> 
 <p> 💻 Atualmente estou aprendendo -> **[ HTML, CSS, JS, React.js, Angula, Bootstrap, Vue.js]**</p> 
 <p>  🤖 Meus projetos no **CODEPEN** -> https://codepen.io/talilo-tarlison</p> 
