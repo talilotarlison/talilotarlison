@@ -2,6 +2,7 @@
 
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is *Talilo Tarlison* and my nickname is *"Talilo"*!!
+<div align="center">
 ![Capa](https://www.meshdex.com/wp-content/uploads/2018/07/web.gif)
 ### Estou aprendendo
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,jquery,react,angular,vue,)](https://skillicons.dev)
@@ -34,3 +35,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talilotarlison&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talilotarlison&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  <div>
