@@ -20,9 +20,7 @@ src="https://www.meshdex.com/wp-content/uploads/2018/07/web.gif">
 <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://www.github.com"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<br>
 </div>
-
  
 <p> 🎯 Atualmente não estou trabalhando na área, apenas me esforçando e estudando bastante.</p> 
 <p> 💻 Atualmente estou aprendendo -> **[ HTML, CSS, JS, React.js, Angula, Bootstrap, Vue.js]**</p> 
