@@ -5,7 +5,7 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is *Talilo Tarlison* and my nickname is *"Talilo"*!!
 
- <img
+ <img width="400px"
 src="https://www.lwtsistemas.com.br/wp-content/uploads/2019/08/programa%C3%A7%C3%A3o.png.png">
    
 ### Estou aprendendo
