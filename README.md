@@ -6,7 +6,7 @@
 ### My name is *Talilo Tarlison* and my nickname is *"Talilo"*!!
  
  <img width="300px"
-src="https://images.vexels.com/media/users/3/224240/isolated/preview/21e33e0bb58925b96b1a00c521c007f2-logotipo-dos-colchetes-de-programacao.png"> 
+src="https://www.lwtsistemas.com.br/wp-content/uploads/2019/08/programa%C3%A7%C3%A3o.png.png"> 
  
 ### Estou aprendendo
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,jquery,react,angular,vue,)](https://skillicons.dev)
