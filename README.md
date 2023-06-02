@@ -7,6 +7,7 @@
  
  <h1>&#60;Talilo Tarlison/&#62;</h1>
  <p> 🎯 Atualmente não estou trabalhando na área, apenas me esforçando e estudando bastante.</p> 
+ 
 ### Estou aprendendo
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,jquery,react,angular,vue,)](https://skillicons.dev)
 
