@@ -6,7 +6,7 @@
 ### My name is *Talilo Tarlison* and my nickname is *"Talilo"*!!
  
  <h1>&#60;Talilo Tarlison/&#62;</h1>
- 
+ <p> 🎯 Atualmente não estou trabalhando na área, apenas me esforçando e estudando bastante.</p> 
 ### Estou aprendendo
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,jquery,react,angular,vue,)](https://skillicons.dev)
 
@@ -21,7 +21,7 @@
 <a href="https://www.github.com"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
  
-<p> 🎯 Atualmente não estou trabalhando na área, apenas me esforçando e estudando bastante.</p> 
+
 <p> 💻 Atualmente estou aprendendo -> <b>[ HTML, CSS, JS, React.js, Angula, Bootstrap, Vue.js, Phyton]</b></p> 
 <p>  🤖 Meus projetos no <b>CODEPEN</b> -> https://codepen.io/talilo-tarlison</p> 
 <p> 💬 Pergunte-me sobre algo -> https://linktr.ee/talilo.tarlison</p> 
