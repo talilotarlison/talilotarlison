@@ -23,7 +23,7 @@
 </div>
  
 
-<p> 💻 Atualmente estou aprendendo -> <b>[ HTML, CSS, JS, React.js, Angula, Bootstrap, Vue.js, Phyton]</b></p> 
+<p> 💻 Atualmente estou aprendendo -> <b>[ HTML, CSS, JS, PHP, React.js, Bootstrap, Vue.js, Phyton]</b></p> 
 <p>  🤖 Meus projetos no <b>CODEPEN</b> -> https://codepen.io/talilo-tarlison</p>
  <p>  🤖 Meus projetos no <b>REPLIT</b> -> https://replit.com/@talilotarlison</p>
 <p> 💬 Pergunte-me sobre algo -> https://linktr.ee/talilo.tarlison</p> 
