@@ -16,7 +16,7 @@
 <a href="https://www.github.com"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
-<p> 💻 Atualmente estou aprendendo -> <b> HTML, CSS, JS, PHP, React.js, Bootstrap, Jquery, Phyton, Node, React</b></p> 
+<p> 💻 Atualmente estou aprendendo -> <b> HTML, CSS, JS, PHP, React.js, Bootstrap, Jquery, Phyton, Node</b></p> 
 <p>  🤖 Meus projetos no <b>CODEPEN</b> -> https://codepen.io/talilo-tarlison</p>
 <p>  🤖 Meus projetos no <b>REPLIT</b> -> https://replit.com/@talilotarlison</p>
 <p> 💬 Pergunte-me sobre algo -> https://linktr.ee/talilo.tarlison</p> 
@@ -26,7 +26,7 @@
 
  
 ### Estou aprendendo:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,jquery,react,angular,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,jquery,react,nodejs,python)](https://skillicons.dev)
 
 ### Ferramentas e Tecnologias:
 [![My Skills](https://skillicons.dev/icons?i=github,linux,git,codepen,discord,figma,netlify,replit)](https://skillicons.dev)
