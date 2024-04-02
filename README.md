@@ -1,13 +1,13 @@
 <div align="left"> 
  
-### 👋 Hello! Welcome to my Github profile.
-### My name is *Talilo Tarlison* and my nickname is *"Talilo"*!!
+#### 👋 Hello! Welcome to my Github profile.
+#### My name is *Talilo Tarlison* and my nickname is *"Talilo"*!!
 
 <p> 🎯 Atualmente não estou trabalhando na área, apenas me esforçando e estudando bastante.</p> 
 
 
 
-<p> 💻 Atualmente estou aprendendo -> <b> HTML, CSS, JS, PHP, React.js, Bootstrap, Jquery, Phyton, Node</b></p> 
+
 <p>  🤖 Meus projetos no <b>CODEPEN</b> -> https://codepen.io/talilo-tarlison</p>
 <p>  🤖 Meus projetos no <b>REPLIT</b> -> https://replit.com/@talilotarlison</p>
 <p> 💬 Pergunte-me sobre algo -> https://linktr.ee/talilo.tarlison</p> 
