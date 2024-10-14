@@ -6,12 +6,12 @@
     <p>- Meus projetos no <b>CODEPEN</b>: https://codepen.io/talilo-tarlison</p>
     <p>- Meus projetos no <b>REPLIT</b>: https://replit.com/@talilotarlison</p>
     <p>- Pergunte-me sobre algo: https://linktr.ee/talilo.tarlison</p> 
-    <p>- Como entrar em contato comigo: talilo@email.com</p> 
+    <p>- Como entrar em contato comigo pelo <b>E-MAIL</b>: talilotarlison1@gmail.com</p> 
     <p>- Curiosidade: Gosto de técnologia e dedico uma boa parte do meu tempo estudando técnologias de programação.</p> 
 </div>
 
 #### Estou aprendendo:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,jquery,react,nodejs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,jquery,react,nodejs,python,mysql,sqlite)](https://skillicons.dev)
 
 #### Ferramentas e Tecnologias:
 [![My Skills](https://skillicons.dev/icons?i=github,linux,windows,git,codepen,discord,figma,netlify,replit)](https://skillicons.dev)
