@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,bootstrap,jquery,react,nodejs,python,flask,mysql,sqlite)](https://skillicons.dev)
 
 #### Ferramentas e Tecnologias:
-[![My Skills](https://skillicons.dev/icons?i=github,linux,windows,git,codepen,discord,figma,netlify,replit,vercel,docker,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,linux,windows,git,codepen,discord,figma,netlify,replit,vercel,docker,gitlab,firebase)](https://skillicons.dev)
 
 #### Contatos:
 
