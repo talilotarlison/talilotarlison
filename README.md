@@ -6,7 +6,7 @@
     <p>- Meus projetos no <b>Codpen</b>: https://codepen.io/talilo-tarlison</p>
     <p>- Meus projetos no <b>Replit</b>: https://replit.com/@talilotarlison</p>
     <p>- Pergunte-me sobre algo: https://linktr.ee/talilo.tarlison</p> 
-    <p>- Como entrar em contato comigo pelo <b>E-mail</b>: talilotarlison1@gmail.com</p> 
+    <p>- Como entrar em contato comigo pelo <b>E-mail</b>:  <a href = "mailto:talilotarlison1@gmail.com"> talilotarlison1@gmail.com </a></p> 
     <p>- Curiosidade: Gosto de técnologia e dedico uma boa parte do meu tempo estudando técnologias de programação.</p> 
 </div>
 
